@@ -58,6 +58,7 @@ Após a decisão da equipe, o nome foi alterado para **Lepus Studio**, mantendo 
 A identidade visual reúne elementos que representam o conceito da empresa.
 
 | Elemento               | Representação                                                           |
+| ---------------------- | ----------------------------------------------------------------------- |
 | 🐇 Coelho             | Referência à constelação Lepus e ao nome da empresa.                     |
 | ⭐ Estrelas           | Ligação com o universo e com a origem do nome da constelação.            |
 | 🔶 Traços geométricos | Visual moderno e minimalista para representar criatividade e tecnologia. |
@@ -71,6 +72,7 @@ A paleta oficial da Lepus Studio será registrada abaixo.
 > **Espaço reservado para adicionar os códigos das cores oficiais da identidade visual.**
 
 | Código da cor | Cor              |
+| ------------- | ---------------- |
 | #AB8345       | Dourado queimado |
 | #FFFFFF       | Branco           |
 | #AAA494       | Grullo           |
