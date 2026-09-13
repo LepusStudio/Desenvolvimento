@@ -22,73 +22,33 @@ Com o personagem pronto, o jogador segue para a escola e escolhe uma das salas d
 
 ---
 
-# 🗺️ Fluxo da história
+## 🗺️ Fluxo da história
 
-<box background=surface gap=3 padding=4 radius=3xl>
-  <row align=start gap=3>
-    <icon name=bed size=2xl color="#8B5CF6"/>
-    <box gap=0>
-      <text size=sm weight=medium color="#8B5CF6">INÍCIO</text>
-      <text weight=semibold>Quarto do personagem</text>
-      <caption>O jogador acorda e inicia sua rotina.</caption>
-    </box>
-  </row>
+```mermaid
+flowchart TD
+    A([🛏️ Início do jogo]) --> B[O personagem acorda no quarto]
+    B --> C[👕 Personalização no guarda-roupa]
+    C --> D[🏫 Chegada à escola]
+    D --> E{Escolha da sala}
 
-  <icon name=arrow-down color=secondary/>
+    E --> F[🧪 Sala de Física]
+    E --> G[🎨 Sala de Artes]
+    E --> H[💻 Laboratório de Informática]
 
-  <row align=start gap=3>
-    <icon name=shirt size=2xl color="#10B981"/>
-    <box gap=0>
-      <text size=sm weight=medium color="#10B981">PERSONALIZAÇÃO</text>
-      <text weight=semibold>Guarda-roupa</text>
-      <caption>O jogador monta o visual do personagem.</caption>
-    </box>
-  </row>
+    F --> I[Mini jogo da Física]
+    G --> J[Mini jogo de Artes]
+    H --> K[Mini jogo da Informática]
 
-  <icon name=arrow-down color=secondary/>
+    I --> L[🏃 Início da perseguição]
+    J --> L
+    K --> L
 
-  <row align=start gap=3>
-    <icon name=school size=2xl color="#3B82F6"/>
-    <box gap=0>
-      <text size=sm weight=medium color="#3B82F6">ESCOLA</text>
-      <text weight=semibold>Chegada à escola</text>
-      <caption>O jogador escolhe qual sala deseja entrar.</caption>
-    </box>
-  </row>
+    L --> M[Desviar dos obstáculos]
+    M --> N{O jogador foi atingido?}
 
-  <icon name=arrow-down color=secondary/>
-
-  <row align=start gap=3>
-    <icon name=gamepad size=2xl color="#F59E0B"/>
-    <box gap=0>
-      <text size=sm weight=medium color="#F59E0B">MINI JOGO</text>
-      <text weight=semibold>Desafio da sala escolhida</text>
-      <caption>Cada professor propõe um desafio diferente.</caption>
-    </box>
-  </row>
-
-  <icon name=arrow-down color=secondary/>
-
-  <row align=start gap=3>
-    <icon name=running size=2xl color="#EF4444"/>
-    <box gap=0>
-      <text size=sm weight=medium color="#EF4444">JOGO PRINCIPAL</text>
-      <text weight=semibold>Perseguição infinita</text>
-      <caption>O jogador foge do professor desviando dos obstáculos.</caption>
-    </box>
-  </row>
-
-  <icon name=arrow-down color=secondary/>
-
-  <row align=start gap=3>
-    <icon name=skull size=2xl color=secondary/>
-    <box gap=0>
-      <text size=sm weight=medium color=secondary>DERROTA</text>
-      <text weight=semibold>Fim da partida</text>
-      <caption>Uma animação diferente é exibida conforme a sala escolhida.</caption>
-    </box>
-  </row>
-</box>
+    N -- Não --> M
+    N -- Sim --> O([💀 Fim da partida])
+```
 
 ---
 
