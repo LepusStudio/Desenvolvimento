@@ -16,13 +16,14 @@ Durante a reunião, a equipe entrou em consenso sobre a proposta geral do projet
 
 Após discussão entre os integrantes, foram definidas as seguintes funções:
 
-Integrante	      Responsabilidade
-Maria Eduarda	  Desenvolvimento Backend
-Bianca	          Desenvolvimento Backend
-Bruna Witney	  Tela de Login
-Isadora	          Cenários
-Isaac	          Cenários
-Suellen	          Personagens
+| Integrante       | Responsabilidade  |
+| ---------------- | ----------------- |
+| Maria Eduarda    | Backend           |
+| Bianca           | Backend           |
+| Bruna            | Tela de login     |
+| Isadora          | Cenários          |
+| Isaac            | Cenários          |
+| Suellen          | Personagens       |
 
 > A divisão poderá ser ajustada ao longo do desenvolvimento conforme a necessidade do projeto.
 > Todos terão algum tipo de participação no Backend e em outras partes, sempre trabalhando em conjunto.
