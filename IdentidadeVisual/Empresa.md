@@ -30,8 +30,6 @@ A equipe entrou em consenso e adotou **Lepus Studio** como nome oficial da empre
 
 Primeira proposta da identidade visual, utilizando o nome **Cosmo Studio**.
 
-![Logo Cosmo Studio]("C:\Users\medud\Downloads\Logos\CosmoStudio.jpeg.jpeg")
-
 **Características da versão:**
 
 * Nome provisório da empresa.
@@ -44,8 +42,6 @@ Primeira proposta da identidade visual, utilizando o nome **Cosmo Studio**.
 ### Versão 2 — Lepus Studio (Escolhida)
 
 Após a decisão da equipe, o nome foi alterado para **Lepus Studio**, mantendo a identidade gráfica criada inicialmente.
-
-![Logo Lepus Studio]("C:\Users\medud\Downloads\Logos\LepusStudio.jpeg.jpeg")
 
 **Alterações realizadas:**
 
