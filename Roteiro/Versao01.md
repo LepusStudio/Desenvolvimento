@@ -218,7 +218,13 @@ Cada fase possui uma animação e um encerramento próprios.
 
 # 👨‍🏫 Professores e obstáculos
 
-<table><table-section header><table-row header><table-cell header>Sala</table-cell><table-cell header>Professor</table-cell><table-cell header>Obstáculo principal</table-cell></table-row></table-section><table-row><table-cell>Física</table-cell><table-cell>Professora Jessyca</table-cell><table-cell>Pincéis de quadro.</table-cell></table-row><table-row><table-cell>Artes</table-cell><table-cell>Professor de Artes</table-cell><table-cell>Boinas.</table-cell></table-row><table-row><table-cell>Informática</table-cell><table-cell>Professor Roger</table-cell><table-cell>Teclados e mouses.</table-cell></table-row></table>
+# 👨‍🏫 Professores e obstáculos
+
+| **Sala**      | **Professor**          | **Obstáculos durante a perseguição** | **Derrota** |
+|---------------|------------------------|--------------------------------------|-------------|
+| 🧪 **Física** | Professora **Jessyca** | Pincéis de quadro arremessados com os pés enquanto anda de cabeça para baixo. | A professora quebra um pincel na cabeça do jogador e aparece a frase **"HEAD SHOT"**. |
+| 🎨 **Artes** | Professor de **Artes** | Boinas arremessadas ao longo do percurso. | O professor rasga uma boina na cabeça do jogador. |
+| 💻 **Laboratório de Informática** | Professor **Roger** | Teclados e mouses arremessados durante a corrida. | O professor quebra um monitor na cabeça do jogador. |
 
 ---
 
