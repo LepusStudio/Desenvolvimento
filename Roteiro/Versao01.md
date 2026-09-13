@@ -218,8 +218,6 @@ Cada fase possui uma animação e um encerramento próprios.
 
 # 👨‍🏫 Professores e obstáculos
 
-# 👨‍🏫 Professores e obstáculos
-
 | **Sala**      | **Professor**          | **Obstáculos durante a perseguição** | **Derrota** |
 |---------------|------------------------|--------------------------------------|-------------|
 | 🧪 **Física** | Professora **Jessyca** | Pincéis de quadro arremessados com os pés enquanto anda de cabeça para baixo. | A professora quebra um pincel na cabeça do jogador e aparece a frase **"HEAD SHOT"**. |
