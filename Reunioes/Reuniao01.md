@@ -1,6 +1,7 @@
 # 📅 Primeira Reunião — Lepus Studio
 
-Data: DD/MM/AAAA
+Data: 04/09/2026
+Horário: 14:17
 Participantes: Maria Eduarda, Bianca, Bruna Witney, Isadora, Isaac e Suellen.
 
 ## Objetivo da reunião
